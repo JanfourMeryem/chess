@@ -1,2 +1,2 @@
 # chess
-un plateau chess
+chess game built with C#
